@@ -1,0 +1,13 @@
+
+__pycache__/
+
+
+myenv/
+
+# IDEs and editors
+.idea/
+.vscode/
+.new/
+
+# Local development
+.local/
